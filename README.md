@@ -1,27 +1,40 @@
-# Todo
+<h1 align="center">To-Do App</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+<p align="center">
+  <a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir-">Como Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+</p>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Projeto desenvolvido no curso "Começando com Angular" do balta.io
 
-## Code scaffolding
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39461509/122308305-80934d00-cee2-11eb-872f-3dd24ec51a79.png">
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias :rocket:
 
-## Build
+Este projeto foi desenvolvido utilizando a seguintes tecnologia:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- [Angular](https://angular.io/)
 
-## Running unit tests
+## Sobre :memo:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Aplicativo to-do, criado com objetivo de praticar CRUD com Angular e aprender os conceitos do Framework, no app é possivel adicionar, editar, listar e remover tarefas.
 
-## Running end-to-end tests
+## Como contribuir 🤔
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-## Further help
+## Licença :scroll:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+#### <p align="center"> <strong> < Feito por <a href="http://github.com/leandrorangel94"> @leandrorangel94  </a> /> </strong>  :wave:
